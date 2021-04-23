@@ -38,5 +38,5 @@ There is a button called Gen is present, when clicked it will generate a random 
 
 Credits
 
-This project is as part of Bob Ziroll's react course.
+This project is made as part of Bob Ziroll's react course.
 
